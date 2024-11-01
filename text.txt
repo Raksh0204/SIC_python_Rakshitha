@@ -1,0 +1,7 @@
+Questions:
+- Why in python there is no type cast?
+- x++ != y && --y > z || y++ <= x
+- i = -1
+  i -= -1 # i = i - (-1) = -1 + 1 = 0
+  print(i)
+- 
